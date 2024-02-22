@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/evgen/Desktop/яимп/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\evgen\\Desktop\\яимп\\main.cpp",
+  "file": "C:\\Users\\evgen\\Desktop\\яимп\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
